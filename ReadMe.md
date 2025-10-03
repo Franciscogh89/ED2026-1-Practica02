@@ -32,3 +32,5 @@ En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integra
 ## Comentarios
 
 Movi todas las funciones auxiliares al final del archivo, a excepcion de una funcion auxiliar para la seccion de binarios, ya que era la unica de esa seccion y era corta.
+
+Mientras intentaba hacer el test tuve que actualizar ghc y otras cosas, en algun momento se creo una carpeta, no sé si eso lo hizo cabal build o algo de lo que instalé yo, tampoco si es realmente necesario para algo, pero lo dejare ahi por si acaso
