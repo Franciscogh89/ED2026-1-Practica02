@@ -31,4 +31,4 @@ En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integra
 
 ## Comentarios
 
-Recuerden que opcionalmente pueden agregar un comentario (ver los lineamientos de entrega). Si es el caso, borren esta linea y dejen su comentario.
+Movi todas las funciones auxiliares al final del archivo, a excepcion de una funcion auxiliar para la seccion de binarios, ya que era la unica de esa seccion y era corta.
